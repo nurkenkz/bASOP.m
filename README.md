@@ -28,4 +28,4 @@ WARNING: number of iterations set to 10000, which takes ~15 min. Can be lowered 
 5. weather2018.mat - real weather data from UW weather station for 2018 with step=15 minutes
 6. pdf_data.mat - probability density function of occupant actions based on indoor temperature
 
-FOR MORE DETAILS SEE ECE686ProjNTuktibayev.pptx
+FOR MORE DETAILS SEE [ECE686ProjNTuktibayev.pptx](https://github.com/nurkenkz/bASOP.m/blob/master/ECE686ProjNTuktibayev.pptx)
