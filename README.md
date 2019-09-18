@@ -1,5 +1,7 @@
 This project is based on the following paper:
+
 Lee, Donghwan ; Lee, Seungjae ; Karava, Panagiota ; Hu, Jianghai “Simulation-Based Policy Gradient and Its Building Control Application” 2018 Annual American Control Conference (ACC), June 2018, pp.5424-5429
+
 It applies stochastic simulation-based policy gradient method for optimal office building HVAC control system:
 - Approximates the gradient of the cost function using simulations
 - Uses a gradient descent type algorithm to design a suboptimal control policy
